@@ -1,1 +1,23 @@
-# bda
+e.txt
+101,John,Sales,65000
+102,Alice,HR,70000
+103,Bob,IT,80000
+104,Eve,Sales,55000
+105,Charlie,Finance,90000
+106,Mike,IT,75000
+107,Susan,HR,72000
+108,David,Finance,68000
+109,Emma,Sales,62000
+110,Robert,IT,78000
+111,Olivia,Finance,87000
+112,Liam,HR,71000
+113,Mia,Marketing,73000
+114,Ethan,Marketing,67000
+115,Ava,IT,82000
+d.txt
+Sales,201
+HR,202
+IT,203
+Finance,204
+Marketing,205
+Operations,206
